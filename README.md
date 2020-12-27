@@ -94,5 +94,16 @@ For tasks and issues related to [python-components](https://github.com/programmi
 
 For tasks and issues related to [java-components](https://github.com/programming-the-iot/java-components), please see [java-components references](https://github.com/programming-the-iot/java-components#references)
 
+# Disclaimer
+For the purposes of this Disclaimer, Author refers to Andrew D. King. You means the individual or other entity accessing this document.
+
+All information in this document is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
+
+The author is not responsible for any errors or omissions, or for the results obtained from the use of this information.
+
+This document may contain links to external websites that are not provided or maintained by or in any way affiliated with the author. Please note that the author does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+
+In no event shall the author be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the contents contained within this document. The author reserves the right to make additions, deletions, or modifications to the contents of this document at any time without prior notice.
+
 # Copyright
 Copyright :copyright: 2020 Andrew D. King. All rights reserved.
