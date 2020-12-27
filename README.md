@@ -83,7 +83,7 @@ In general, PR's are disabled while the codebase and documentation are being dev
 Much of the tasks and issues representing requirements within this repository will continue to evolve, so you may want to check back regularly for potential updates. Please note that this repository is still under active development - you'll likely find typos and other errata.
 
 # License
-The usage license for this issues repository will be updated shortly.
+The usage license for the non-source code documentation in this repository will be updated shortly.
 
 All example source code (Java and Python) embedded within this issues repository is available under [The MIT License](https://github.com/programming-the-iot/book-exercise-tasks/blob/apha001/source-examples/LICENSE).
 
