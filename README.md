@@ -89,4 +89,10 @@ All example source code (Java and Python) embedded within this issues repository
 
 Please refer to the referenced [python-components](https://github.com/programming-the-iot/python-components) and [java-components](https://github.com/programming-the-iot/java-components) repositories for their respective usage licenses, including any external dependencies and associated references. Please be sure to review each before using any of these repositories.
 
+# References
+For tasks and issues related to [python-components](https://github.com/programming-the-iot/python-components), please see [python-components references](https://github.com/programming-the-iot/python-components#references)
+
+For tasks and issues related to [java-components](https://github.com/programming-the-iot/java-components), please see [java-components references](https://github.com/programming-the-iot/java-components#references)
+
+# Copyright
 Copyright :copyright: 2020 Andrew D. King. All rights reserved.
