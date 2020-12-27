@@ -83,8 +83,10 @@ In general, PR's are disabled while the codebase and documentation are being dev
 Much of the tasks and issues representing requirements within this repository will continue to evolve, so you may want to check back regularly for potential updates. Please note that this repository is still under active development - you'll likely find typos and other errata.
 
 # License
-The usage license for this repository's documentation will be updated shortly.
+The usage license for this issues repository will be updated shortly.
 
-The source code with the projects [python-components](https://github.com/programming-the-iot/python-components) and [java-components](https://github.com/programming-the-iot/java-components) are licensed separately, as per the LICENSE file located in each repository. Any dependencies referenced by these projects will have their own respective license and usage constraints. Please be sure to review each before using any of these repositories.
+All example source code (Java and Python) embedded within this issues repository is available under [The MIT License](https://github.com/programming-the-iot/book-exercise-tasks/blob/apha001/source-examples/LICENSE).
+
+Please refer to the referenced [python-components](https://github.com/programming-the-iot/python-components) and [java-components](https://github.com/programming-the-iot/java-components) repositories for their respective usage licenses, including any external dependencies and associated references. Please be sure to review each before using any of these repositories.
 
 Copyright :copyright: 2020 Andrew D. King. All rights reserved.
