@@ -48,12 +48,13 @@ Exercises and notes are named according to the following convention: {project na
   - project name:
     - PIOT: The project name (Programming the Internet of Things).
   - category:
-    - INF: An informational note
-    - STU: A student-specific requirement, usually documentation-related (this is relevant if enrolled in the Connected Devices course, for example)
-    - CFG: A configuration requirement
-    - CDA: A Constrained Device App (CDA)-specific requirement
-    - GDA: A Gateway Device App (GDA)-specific requirement
-    - INT: An integration requirement that may depend upon other requirements specific to those labeled as CFG, CDA and / or GDA
+    - DOC: General documentation that provides a summary overview of the section or lab module.
+    - INF: An informational note.
+    - STU: A student-specific requirement, usually documentation-related (this is relevant if enrolled in the Connected Devices course, for example).
+    - CFG: A configuration requirement.
+    - CDA: A Constrained Device App (CDA)-specific requirement.
+    - GDA: A Gateway Device App (GDA)-specific requirement.
+    - INT: An integration requirement that may depend upon other requirements specific to those labeled as CFG, CDA and / or GDA.
   - lab module #:
     - 01 - 12: Each Lab Module aligns to a Chapter in the book.
   - sequence #:
@@ -77,24 +78,33 @@ NOTE: An exception to the numbering sequence scheme is made for build-specific t
 # Other Things to Know
 
 ## Pull Requests
+
 In general, PR's are disabled while the codebase and documentation are being developed.
 
 ## Updates
+
 Much of the tasks and issues representing requirements within this repository will continue to evolve, so you may want to check back regularly for potential updates. Please note that this repository is still under active development - you'll likely find typos and other errata.
 
 # License
-The usage license for the non-source code documentation in this repository will be updated shortly.
+
+*Documentation*
+
+The usage license for this issues repository's non-source code documentation (Notes, Issues, Requirements, etc.) will be updated shortly. It is not currently available for commercial use without permission.
+
+*Sample Source Code*
 
 All example source code (Java and Python) embedded within this issues repository is available under [The MIT License](https://github.com/programming-the-iot/book-exercise-tasks/blob/apha001/source-examples/LICENSE).
 
 Please refer to the referenced [python-components](https://github.com/programming-the-iot/python-components) and [java-components](https://github.com/programming-the-iot/java-components) repositories for their respective usage licenses, including any external dependencies and associated references. Please be sure to review each before using any of these repositories.
 
 # References
+
 For tasks and issues related to [python-components](https://github.com/programming-the-iot/python-components), please see [python-components references](https://github.com/programming-the-iot/python-components#references)
 
 For tasks and issues related to [java-components](https://github.com/programming-the-iot/java-components), please see [java-components references](https://github.com/programming-the-iot/java-components#references)
 
 # Disclaimer
+
 For the purposes of this Disclaimer, Author refers to Andrew D. King. You means the individual or other entity accessing this document.
 
 All information in this document is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
