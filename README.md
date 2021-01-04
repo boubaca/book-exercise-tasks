@@ -102,9 +102,9 @@ Please refer to the referenced [python-components](https://github.com/programmin
 ## Tools and Specifications
 
 - [CoAP RFC 7252](https://tools.ietf.org/html/rfc7252)
-  - Reference: Z. Shelby, K. Hartke, and C. Bormann. The Constrained Application Protocol (CoAP). IETF Standard RFC 7252, 2014. Available: https://tools.ietf.org/html/rfc7252.
+  - Reference: Z. Shelby, K. Hartke, and C. Bormann. The Constrained Application Protocol (CoAP). IETF Proposed Standard RFC 7252, 2014. Available: https://tools.ietf.org/html/rfc7252.
 - [JSON](https://tools.ietf.org/html/rfc8259)
-  - Reference: T. Bray. The JavaScript Object Notation (JSON) Data Interchange Format. IETF Standard RFC 8259, 2017. Available: https://tools.ietf.org/html/rfc8259.
+  - Reference: T. Bray. The JavaScript Object Notation (JSON) Data Interchange Format. IETF Internet Standard RFC 8259, 2017. Available: https://tools.ietf.org/html/rfc8259.
 - [MQTT v 3.1.1](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
   - Reference: A. Banks, R. Gupta. MQTT Version 3.1.1. OASIS Standard, 2014. Available: https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html.
 - [Redis](https://redis.io/)
