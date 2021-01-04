@@ -99,6 +99,21 @@ Please refer to the referenced [python-components](https://github.com/programmin
 
 # References
 
+## Tools and Specifications
+
+- [Sense-Emu](https://sense-emu.readthedocs.io/en/v1.1/)
+  - Reference: The Raspberry Pi Foundation. Sense HAT Emulator. (2016) [Online]. Available: https://sense-emu.readthedocs.io/en/v1.0/.
+- [Redis](https://redis.io/)
+  - Reference: S. Sanfilippo. Redis. (2006 - 2020) [Online]. Available: https://github.com/redis/redis.
+- [MQTT v 3.1.1](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
+  - Reference: A. Banks, R. Gupta. MQTT Version 3.1.1. OASIS Standard , 2014. Available: https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html.
+- [CoAP RFC 7252](https://tools.ietf.org/html/rfc7252)
+  - Reference: Z. Shelby, K. Hartke, and C. Bormann. The Constrained Application Protocol (CoAP). IETF Standard RFC 7252, 2014. Available: https://tools.ietf.org/html/rfc7252.
+- [JSON](https://tools.ietf.org/html/rfc8259)
+  - Reference: T. Bray. The JavaScript Object Notation (JSON) Data Interchange Format. IETF Standard RFC 8259, 2017. Available: https://tools.ietf.org/html/rfc8259.
+
+## Sample code and dependencies
+
 For tasks and issues related to [python-components](https://github.com/programming-the-iot/python-components), please see [python-components references](https://github.com/programming-the-iot/python-components#references)
 
 For tasks and issues related to [java-components](https://github.com/programming-the-iot/java-components), please see [java-components references](https://github.com/programming-the-iot/java-components#references)
