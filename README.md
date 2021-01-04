@@ -106,7 +106,7 @@ Please refer to the referenced [python-components](https://github.com/programmin
 - [Redis](https://redis.io/)
   - Reference: S. Sanfilippo. Redis. (2006 - 2020) [Online]. Available: https://github.com/redis/redis.
 - [MQTT v 3.1.1](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
-  - Reference: A. Banks, R. Gupta. MQTT Version 3.1.1. OASIS Standard , 2014. Available: https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html.
+  - Reference: A. Banks, R. Gupta. MQTT Version 3.1.1. OASIS Standard, 2014. Available: https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html.
 - [CoAP RFC 7252](https://tools.ietf.org/html/rfc7252)
   - Reference: Z. Shelby, K. Hartke, and C. Bormann. The Constrained Application Protocol (CoAP). IETF Standard RFC 7252, 2014. Available: https://tools.ietf.org/html/rfc7252.
 - [JSON](https://tools.ietf.org/html/rfc8259)
