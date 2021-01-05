@@ -12,7 +12,9 @@ There are three primary repositories that provide the core content for this proj
 
 The combination of these repositories, coupled with the [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1) I mentioned previously, represent the lab exercises for the lab-based introductory IoT course I described. The principles and concepts associated with each milestone and chapter are explained in greater detail within my upcoming book [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401).
 
-These exercises are intended for learning purposes only, and to help you gain further understanding of how a simple IoT system functions.
+If you're a student in Connected Devices, you'll find a fourth repository containing document templates (README files) for each Lab Module in [book-exercise-docs](https://github.com/programming-the-iot/book-exercise-docs). These templates will help you document your technical approach for each Lab Module and the Semester Project.
+
+Please NOTE: These exercises are intended for learning purposes only, and to help you gain further understanding of how a simple IoT system functions.
 
 # How Exercises are Organized
 
