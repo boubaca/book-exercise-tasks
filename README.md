@@ -30,19 +30,20 @@ Each Lab Module listed below represents a single milestone, which maps to the li
   - [Lab Module 05: Data Management](https://github.com/orgs/programming-the-iot/projects/1#column-10488421)
   - [Lab Module 06: MQTT Client - CDA](https://github.com/orgs/programming-the-iot/projects/1#column-10488434)
   - [Lab Module 07: MQTT Client - GDA](https://github.com/orgs/programming-the-iot/projects/1#column-10488499)
-  - [Lab Module 08: CoAP Server](https://github.com/orgs/programming-the-iot/projects/1#column-10488501)
+  - [Lab Module 08: CoAP Servers](https://github.com/orgs/programming-the-iot/projects/1#column-10488501)
   - [Lab Module 09: CoAP Clients](https://github.com/orgs/programming-the-iot/projects/1#column-10488503)
   - [Lab Module 10: Edge Integration](https://github.com/orgs/programming-the-iot/projects/1#column-10488510)
   - [Lab Module 11: Cloud Integration](https://github.com/orgs/programming-the-iot/projects/1#column-10488514)
   - [Lab Module 12: Semester Project](https://github.com/orgs/programming-the-iot/projects/1#column-10488565)
   
 Each exercise within a given Lab Module has at least one label, intended to assist with categorizing the work to be done, as follows:
-  - [build](https://github.com/programming-the-iot/book-exercise-tasks/labels/build): Build and / or DevOps related task (e.g. checkout a new branch).
-  - [configuration](https://github.com/programming-the-iot/book-exercise-tasks/labels/configuration): Configuration related task (e.g. install some software).
-  - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation): Documentation related task (e.g. write-up your approach).
-  - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise): Exercise related task (e.g. implement the specific requirements listed).
-  - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional): Optional exercise task (e.g. you can choose to implement this).
-  - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration): Test and integration related task (e.g. test connection between apps).
+  - [build](https://github.com/programming-the-iot/book-exercise-tasks/labels/build): Build and / or DevOps related task (e.g., checkout a new branch).
+  - [configuration](https://github.com/programming-the-iot/book-exercise-tasks/labels/configuration): Configuration related task (e.g., install some software).
+  - [documentation](https://github.com/programming-the-iot/book-exercise-tasks/labels/documentation): Documentation related task (e.g., write-up your approach).
+  - [exercise](https://github.com/programming-the-iot/book-exercise-tasks/labels/exercise): Required exercise related task (i.e., you should implement this).
+  - [optional](https://github.com/programming-the-iot/book-exercise-tasks/labels/optional): Optional exercise task (i.e., you can choose to implement this).
+  - [additional](https://github.com/programming-the-iot/book-exercise-tasks/labels/additional): Additional exercise task (i.e., if you're a student in my class, you should implement this).
+  - [integration](https://github.com/programming-the-iot/book-exercise-tasks/labels/integration): Test and integration related task (e.g., test connection between apps).
   
 ## About Naming and Numbering Conventions
 
